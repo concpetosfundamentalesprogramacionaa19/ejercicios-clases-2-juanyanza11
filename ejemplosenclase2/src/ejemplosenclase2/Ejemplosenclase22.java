@@ -42,7 +42,7 @@ public class Ejemplosenclase22 {
        
                 System.out.println("Su nombres son: "+nombre+
                         "\n\n\tSus apellidos son: "+apellido+", edad: "+edad+ 
-                        " Su ciudad de origen es: "+ciudad);
+                        "\n Su ciudad de origen es: "+ciudad);
        
                
     }
