@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejemplosenclase2;
+package EjercicioClase;
 
 import java.util.Scanner;
 
